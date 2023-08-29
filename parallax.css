@@ -30,7 +30,7 @@ html {
   background-image: url(images/winter.jpg);
   min-height: 400px;
 }
-.section {
+section {
   text-align: center;
   padding: 50px 80px;
 }
